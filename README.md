@@ -1,2 +1,2 @@
 # wikiman_digest
-Digest for `wikiman`
+Digest for `wikiman`.
